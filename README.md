@@ -1,4 +1,3 @@
-Here's the updated README reflecting the changes:
 
 ---
 
@@ -79,5 +78,3 @@ The contracts are deployed on a custom Avalanche subnet named **bigballo** with 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-
-This README reflects the updated token name and symbol. Let me know if there are any other changes you'd like!
